@@ -14,7 +14,7 @@ setInterval(function () {
 
 const element2 = document.getElementById("photo2");
 
-var imgs2 = ["./media/emin.jpg", "./media/omar.jpg", "./media/eynar.jpg", "./media/sahib.jpg"];
+var imgs2 = ["./media/emin.jpg", "./media/omar.jpg", "./media/Eynar.jpg", "./media/sahib.jpg"];
 
 let index2 = 0;
 
