@@ -1,0 +1,59 @@
+.Website{
+    width: 100%;
+}
+
+#webtext{
+    width: 60%;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 17px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+#webtext div{
+    display: flex;
+    justify-content: space-evenly;
+}
+#webtext p{
+    width: 60%;
+}
+.logo{
+    margin-top: 20px;
+    width: 120px;
+    height: 120px;
+}
+.logo2{
+    height: 150px;
+    width: 100px;
+}
+.logo3{
+    width: 200px;
+}
+.table{
+    margin-top: 30px;
+    box-sizing: border-box;
+}
+table{
+    width: 60%;
+    margin: auto;
+    background-color: aliceblue;
+    text-align: center;
+    height: 300px;
+    border-collapse: collapse;
+    font-family:'Raleway', sans-serif;
+}
+tr{
+    height: 30px;
+    
+}
+th,td{
+    border: 2px solid black;
+}
+table a{
+    text-decoration: none;
+    color: rgb(18, 39, 134);
+    font-weight: 500;
+}

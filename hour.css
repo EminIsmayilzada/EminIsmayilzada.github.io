@@ -1,0 +1,29 @@
+.hourofcode{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#code{
+    text-align: center;
+    color: white;
+}
+.hourofcode img{
+    width: 46%;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 37px;
+}
+.hourofcode iframe{
+    box-sizing: border-box;
+    border-radius: 37px;
+}
+.hourofcode div{
+    margin-top: 15px;
+    width: 45%;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 37px;
+    margin-bottom: 20px;
+    background-color: #ffffffe3;
+    font-size: 22px;
+}
